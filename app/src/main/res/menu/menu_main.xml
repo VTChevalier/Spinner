@@ -5,7 +5,7 @@
         android:id="@+id/sort_spinner"
         android:title="Sort"
         app:showAsAction="ifRoom"
-        android:actionViewClass="android.widget.Spinner"/>
+        app:actionViewClass="android.widget.Spinner"/>
 
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="never" />
